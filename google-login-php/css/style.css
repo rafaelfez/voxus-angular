@@ -1,0 +1,10 @@
+.login img {
+    position: absolute;
+    left: 45%;
+    top: 15%;
+}
+
+.login span {
+    position: absolute;
+    left: 50%;
+}
